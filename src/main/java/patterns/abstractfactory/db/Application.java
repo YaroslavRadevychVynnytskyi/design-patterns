@@ -1,5 +1,6 @@
 package patterns.abstractfactory.db;
 
+import patterns.abstractfactory.db.factory.DBFactory;
 import patterns.abstractfactory.db.factory.MySQLFactory;
 import patterns.abstractfactory.db.factory.PostgresFactory;
 import patterns.abstractfactory.db.objects.Connection;

@@ -1,6 +1,5 @@
 package patterns.abstractfactory.ui.factory;
 
-import patterns.abstractfactory.ui.UIFactory;
 import patterns.abstractfactory.ui.component.Button;
 import patterns.abstractfactory.ui.component.Checkbox;
 import patterns.abstractfactory.ui.mac.MacButton;

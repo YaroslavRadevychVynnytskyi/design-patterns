@@ -3,6 +3,7 @@ package patterns.abstractfactory.ui;
 import patterns.abstractfactory.ui.component.Button;
 import patterns.abstractfactory.ui.component.Checkbox;
 import patterns.abstractfactory.ui.factory.MacFactory;
+import patterns.abstractfactory.ui.factory.UIFactory;
 import patterns.abstractfactory.ui.factory.WindowsFactory;
 
 public class Application {
