@@ -1,10 +1,7 @@
-package patterns;
+package patterns.builder;
 
 import java.math.BigDecimal;
 import java.util.List;
-
-import patterns.builder.Product;
-import patterns.builder.ProductWithLombok;
 
 public class Application {
     public static void main(String[] args) {
